@@ -4,8 +4,6 @@
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS", Lim TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="Familiares",Maxima TV
@@ -32,14 +30,20 @@ https://tuvideoonline.com.ar:3937/stream/play.m3u8
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DqknWtY.png" group-title="Familiares",Retro Kids
 https://vivo.solumedia.com:19360/retrokids/retrokids.m3u8
+#EXTINF:-1 tvg-id="487" tvg-name="Boomerang" tvg-logo="https://i.paste.pics/9ffd25257ef7ea736859faf5a518e058.png", Boomerang | CL
+http://161.97.152.4:81/hls/boomerang.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang Clasico
 http://161.97.152.4:81/hls/boomerang.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JOVENES Y ADULTOS",EnerGeek Retro
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JOVENES Y ADULTOS",EnerGeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Adz7nAy.png" group-title="JOVENES Y ADULTOS",EnerGeek Animate
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Animate" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png", EnerGeek Animate | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.paste.pics/39967f7d4d6090271478ced70e7eb0be.png", EnerGeek Fanpop | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png", EnerGeek Radio | CL
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png", EnerGeek Retro | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png", Kanade TV | CL
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS", VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="JOVENES Y ADULTOS",TV Costa
