@@ -1,1 +1,117 @@
 
+#EXTM3U
+# FUENTES MAESTRAS - listas gratuitas/FAST
+#EXTINF:-1 group-title="LISTAS COMPLETAS",FREE-TV COMPLETO (2000+)
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Pluto TV España
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/pluto_es.m3u
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Pluto TV México
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/pluto_mx.m3u
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Pluto TV Argentina
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/pluto_ar.m3u
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Pluto TV Chile
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/pluto_cl.m3u
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Plex España
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_es.m3u
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Plex México
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_mx.m3u
+#EXTINF:-1 group-title="LISTAS COMPLETAS",Samsung TV Plus España
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsung_es.m3u
+
+# --- CANALES DIRECTOS CURADOS ---
+#EXTINF:-1 group-title="ANIME",Anime Max ES
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1 group-title="ANIME",Geekdot BR
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 group-title="ANIME",Anime Acao BR
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:-1 group-title="ANIME",Hallo! Anime BR
+https://cdn-3.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ANIME",Locomotion ES
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Canela.TV Narco-Drama
+https://amg00658-amg00658c13-lg-us-7400.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-lgus/playlist.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Todo Novelas Mas Pasiones
+https://live-manifest.production-public.tubi.io/live/67689dff-49e1-4e3e-bc75-2b2e4aa68acf/playlist.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Novelas Mexico
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Azteca Corazon
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",TV Novelas
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Novelas Dramas
+https://jmp2.uk/plu-5e84dbf4a838b60007ffbba1.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Novelas Romance
+https://jmp2.uk/plu-5e84db2db3851800077c871e.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",Sony One Novelas
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",ViX Novelas de Romance
+https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8
+#EXTINF:-1 group-title="TELENOVELAS",ViX Villanos de Novela
+https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
+#EXTINF:-1 group-title="K-DRAMA & KOREA",Rakuten Viki
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="K-DRAMA & KOREA",Korean TV
+https://jmp2.uk/stvp-IN3600005NF
+#EXTINF:-1 group-title="K-DRAMA & KOREA",New K-Movies
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-bca6ec8c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337
+#EXTINF:-1 group-title="K-DRAMA & KOREA",Midnight Pulp
+https://d18l78mi5ujmqr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mp84sul05kiy2/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",Canela.TV Hollywood y Mas
+https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
+#EXTINF:-1 group-title="PELICULAS",Bigtime Peliculas Gratis
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",CineLife
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",MovieSphere
+https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS",Hallmark Movies & More
+https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cine Terror BR
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:-1 group-title="PELICULAS",The X Files
+https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Biggest Pop
+https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Rock
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Flow Latino
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:-1 group-title="MUSICA",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Trace Brasil
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="MUSICA",Rockola TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
+#EXTINF:-1 group-title="MUSICA",Stingray Today's K-Pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+#EXTINF:-1 group-title="MUSICA",Stingray Easy Listening
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
+#EXTINF:-1 group-title="MUSICA",Stingray Smooth Jazz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
+#EXTINF:-1 group-title="MUSICA",Stingray Y2K
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
+#EXTINF:-1 group-title="MUSICA",Stingray Exitos del Momento
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3025
+#EXTINF:-1 group-title="MUSICA",Stingray Pop Adult
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023
+#EXTINF:-1 group-title="AMENIDADES",The Bob Ross Channel
+https://2ee6784f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzLWNhX1RoZUJvYlJvc3NDaGFubmVsLTFfSExT/playlist.m3u8
+#EXTINF:-1 group-title="AMENIDADES",Escape to the Country
+https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
+#EXTINF:-1 group-title="AMENIDADES",AWE
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AMENIDADES",Cool Summer Channel
+https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
+#EXTINF:-1 group-title="KIDS & EXTRAS",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="KIDS & EXTRAS",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS & EXTRAS",Sonic the Hedgehog
+https://jmp2.uk/stvp-GB370000369
