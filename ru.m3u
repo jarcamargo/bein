@@ -1,4 +1,179 @@
 #EXTM3U
+# Canales nuevos de la lista adicional primero; después la lista final anterior.
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/B23R0Tq9/Jetix.jpg" group-title="JOVENES Y ADULTOS",Jetix HD
+https://app.viloud.tv/hls/channel/14f9517f36166600c79487cef1ab4d0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gLsvbNM5/Fox-Kids.png" group-title="JOVENES Y ADULTOS",Fox Kids HD Brasil
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-name="Janimotion" tvg-id="Janimotion" tvg-logo="https://i.ibb.co/chkybmzX/Janimotion.png" group-title="JOVENES Y ADULTOS",Janimotion HD
+https://janimotion.com/hls/janimotion/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot" tvg-logo="https://i.ibb.co/WxCMj8q/logo-Geekdot.png" group-title="JOVENES Y ADULTOS",Geekdot Brasil
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" group-title="JOVENES Y ADULTOS",Wording TV HD Brasil
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8D2b197K/Japanmotion.png" group-title="Anime",Japanmotion HD
+https://tv.japanmotion.com/iptv/session/1/hls.m3u8
+#EXTINF:-1 tvg-id="" group-title="Anime",Totoro HD
+https://lbgo.bozztv.com/ssh101/ssh101/totorohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Anime",One Piece HD (subtitulado)
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QvWGSm01/DFTV-Animacion.jpg" group-title="Familiares",DFTV Animacion HD
+https://lbgo.bozztv.com/giatv/giatv-desiertofloridoatacamachile/desiertofloridoatacamachile/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GPPj9Rt/Vitrola-TV.jpg" group-title="LATINOAMERICA",La Vitrola TV HD
+https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgAxWxc.png" group-title="ITALIA",Italia 1 HD
+http://176.65.146.193:5003/play/a077
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0CdSczF.jpg" group-title="ITALIA",Italia 2 HD
+http://176.65.146.193:5003/play/a07e
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1JgZlP.png" group-title="ITALIA",RTV San Marino HD
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GSsMRxE.png" group-title="ITALIA",Rai Sudtirol HD
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t1G3sXr.png" group-title="ITALIA",Super Six Lombardia
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EVI71wt.png" group-title="ITALIA",Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J2ThyOp.jpg" group-title="ITALIA",Cafe 24 TV
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WN0aaRI.png" group-title="ITALIA",Tsn Lecco TV
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/T8zjvQ7/Logo-Columbo.png" group-title="ITALIA",Columbo
+https://live20.bozztv.com/giatv/giatv-columbo/columbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LNXs2bG/Logo-Delmi-Series-Hits.png" group-title="RADIOS",Delmi Series Hits
+https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KK0gr0p/logo-Radio-Super-Music-FM.png" group-title="RADIOS",Radio Super Music FM
+https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOye59W.png" group-title="RADIOS",Animax Radio
+https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mVrw9Cx.png" group-title="RADIOS",La Invasiva Radio
+http://node-33.zeno.fm:80/24gu34zmg1duv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y4wHwYWp/logo-Radio-Free-Aktivo.png" group-title="RADIOS",RadioFreeAktivo
+https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KqkH0Qg.jpg" group-title="RADIOS",Comdisco FM
+https://stream-155.zeno.fm/h0rq175rwchvv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SYP7Ybj.png" group-title="RADIOS",Vol 40
+http://node-12.zeno.fm:80/rzw6q572mqzuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1TgmCPc.png" group-title="RADIOS",VolMIX
+http://node-18.zeno.fm:80/gxymp3mkr2zuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wcfif2S.png" group-title="RADIOS",Pasion Hits
+http://node-34.zeno.fm:80/vfxsw0deyzzuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0xr0n3L.png" group-title="RADIOS",Vibra FM
+http://node-19.zeno.fm:80/cp658vvd7tzuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ynsK0gWZ/Logo-Radio-Plenitud-Chill-n.jpg" group-title="RADIOS",Radio Plenitud Chillan
+https://stream-176.zeno.fm/2pji6cdaouluv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JLAqSvn.png" group-title="RADIOS",Conéctate Retro Hits Radio
+https://us9.maindigitalstream.com/ssl/7686i
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GcFtbTW/Logo-Magico-Radio.png" group-title="RADIOS",Magica Radio
+https://radio.plandos.com/8086/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z3pM2UK.png" group-title="RADIOS",Anime Nexus
+http://cast.animenexusla.com:8000/animenexus
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
+https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nM7JwYx.png" group-title="RADIOS",Radio Gerlei
+https://node-01.zeno.fm/dhgbw6gsxxquv?rj-ttl=5&rj-tok=AAABc-5dodkAYVFN_9YGjI8olA
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.japanaradio.com/images/logo02.png" group-title="RADIOS",Japan A Radio
+https://audio.misproductions.com/japan48kaacp
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/asImMab.png" group-title="RADIOS",Radio Anime Tu Música Anime
+https://radioanime.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fIzRGk0.png" group-title="RADIOS",Radio Anime Para Ti
+http://node-03.zeno.fm:80/qpn8mkt8c4duv
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s281848/images/logog.jpg?t=158464" group-title="RADIOS",Akari Radio
+http://node-26.zeno.fm:80/0t952vqukfeuv
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/88680.v5.png" group-title="RADIOS",Bender FM
+http://190.106.134.219:8158/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tr3HWHx.png" group-title="RADIOS",Classics Radio
+http://78.129.229.122:20421/;.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bF0vcFh.png" group-title="RADIOS",Genesis Indie
+http://node-30.zeno.fm:80/9a9g0er36p8uv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKyZXdI.png" group-title="RADIOS",Radio MZ Sports CR
+http://node-28.zeno.fm:80/q2bv3s9w9zhvv
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.crtvg.es/files/full/RP640.png.jpg" group-title="RADIOS",Radio Picarina
+http://picarina-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaradio.com/assets/image/radio/180/1055.png" group-title="RADIOS",Via Radio Vigo
+https://radioserver11.profesionalhosting.com/proxy/pkg129062?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_classic.png" group-title="RADIOS",Los 40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Cadena Ser
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Ser Radio Alicante
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Ser Radio Vigo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope
+http://flucast23-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope Alicante
+http://wecast-b01-01.flumotion.com/copesedes/alicante.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="RADIOS",Cope Vigo
+http://wecast05-h-cloud.flumotion.com/copesedes/vigo.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiomarca.jpg" group-title="RADIOS",Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiomarca.jpg" group-title="RADIOS",Radio Marca Vigo HD
+https://streaming.enacast.com/radiomarcavigoHD.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/1173px-Radio_3_RNE_Spain.svg_.png?fit=696%2C608&ssl=1" group-title="RADIOS",Radio 3 rne
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1 tvg-name="Chespirito" group-title="Series Míticas",Chespirito
+https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho" group-title="Series Míticas",El Chavo del Ocho HD
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-5ef11486d33ab9004048a1cd" tvg-id="643054b1fc3be59477853717-5ef11486d33ab9004048a1cd" tvg-chno="" tvg-name="Always Funny" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="Spain",Always Funny
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5ef11486d33ab9004048a1cd/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d" tvg-id="643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d" tvg-chno="" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png" group-title="Spain",Caracol Mix
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-67642f277c5e3b38af72dcdb" tvg-id="643054b1fc3be59477853717-67642f277c5e3b38af72dcdb" tvg-chno="" tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png" group-title="Spain",Cirque du Soleil
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67642f277c5e3b38af72dcdb/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-66ea0e029502c5778b828d45" tvg-id="643054b1fc3be59477853717-66ea0e029502c5778b828d45" tvg-chno="" tvg-name="Drool" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png" group-title="Spain",Drool
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ea0e029502c5778b828d45/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-68d7f9b53b1f329cea126993" tvg-id="643054b1fc3be59477853717-68d7f9b53b1f329cea126993" tvg-chno="" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png" group-title="Spain",Dude Perfect
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68d7f9b53b1f329cea126993/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6216723e2c2627c068e73ad4" tvg-id="643054b1fc3be59477853717-6216723e2c2627c068e73ad4" tvg-chno="" tvg-name="Dungeon TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png" group-title="Spain",Dungeon TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6216723e2c2627c068e73ad4/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814" tvg-id="643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814" tvg-chno="" tvg-name="Humor Mill" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="Spain",Humor Mill
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a" tvg-id="643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a" tvg-chno="" tvg-name="K-Baseball TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png" group-title="Spain",K-Baseball TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-5eea605574085f0040ddc79a" tvg-id="643054b1fc3be59477853717-5eea605574085f0040ddc79a" tvg-chno="" tvg-name="Kidoodle TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png" group-title="Spain",Kidoodle TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5eea605574085f0040ddc79a/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a" tvg-id="643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a" tvg-chno="" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Spain",Kidz Bop TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-65b80306e5cf85050598aba4" tvg-id="643054b1fc3be59477853717-65b80306e5cf85050598aba4" tvg-chno="" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png" group-title="Spain",Made It Myself TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65b80306e5cf85050598aba4/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-chno="" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="Spain",Motorvision TV en Español
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6196c8c01d310bf925e02615" tvg-id="643054b1fc3be59477853717-6196c8c01d310bf925e02615" tvg-chno="" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="Spain",Music Legends
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6196c8c01d310bf925e02615/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-627ec46a92d8e6a705784bd1" tvg-id="643054b1fc3be59477853717-627ec46a92d8e6a705784bd1" tvg-chno="" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png" group-title="Spain",Ninja Kidz TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-627ec46a92d8e6a705784bd1/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa" tvg-id="643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa" tvg-chno="" tvg-name="Oro TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="Spain",Oro TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40" tvg-id="643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40" tvg-chno="" tvg-name="PLL Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png" group-title="Spain",PLL Network
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6" tvg-id="643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6" tvg-chno="" tvg-name="Saborear TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png" group-title="Spain",Saborear TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6216ae22c3bbca2de8704f65" tvg-id="643054b1fc3be59477853717-6216ae22c3bbca2de8704f65" tvg-chno="" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="Spain",Sports Illustrated TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6216ae22c3bbca2de8704f65/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-62ab5aabbb869dd0df6a3487" tvg-id="643054b1fc3be59477853717-62ab5aabbb869dd0df6a3487" tvg-chno="" tvg-name="TED" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png" group-title="Spain",TED
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-62ab5aabbb869dd0df6a3487/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82" tvg-id="643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82" tvg-chno="" tvg-name="The Boat Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" group-title="Spain",The Boat Show
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-61e9d9979da6ee6e05278269" tvg-id="643054b1fc3be59477853717-61e9d9979da6ee6e05278269" tvg-chno="" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png" group-title="Spain",Wellbeing TV
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-61e9d9979da6ee6e05278269/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
+#EXTINF:-1 channel-id="60ed5fb9c4716d0007d180c5" tvg-id="60ed5fb9c4716d0007d180c5" tvg-chno="123" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="Crimen y Misterio",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+#EXTINF:-1 channel-id="627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-chno="653" tvg-name="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Geordies
+https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
+#EXTINF:-1 channel-id="611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-chno="656" tvg-name="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Tattoo a dos
+https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
+#EXTINF:-1 channel-id="60b4c06717da110007ee1af6" tvg-id="60b4c06717da110007ee1af6" tvg-chno="353" tvg-name="Pluto TV Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png" group-title="Más series",Pluto TV Telenovelas
+https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+#EXTINF:-1 channel-id="65786b94cbd0d60008f7e4d9" tvg-id="65786b94cbd0d60008f7e4d9" tvg-chno="330" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png" group-title="Ciencia Ficción",Star Trek: The Next Generation
+https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+#EXTINF:-1 channel-id="65787f2eb228b7000843fa5c" tvg-id="65787f2eb228b7000843fa5c" tvg-chno="331" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Ciencia Ficción",Star Trek: Voyager
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
+#EXTINF:-1 channel-id="685a995b460ac82fa504342c" tvg-id="685a995b460ac82fa504342c" tvg-chno="52" tvg-name="The Good Wife" tvg-logo="https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png" group-title="Series Míticas",The Good Wife
+https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
 #EXTINF:-1 channel-id="67517fae5534bb0008187997" tvg-id="67517fae5534bb0008187997" tvg-chno="301" tvg-name="Actualidad 360" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="Noticias",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 #EXTINF:-1 channel-id="65b91e530d9ab40008340d8d" tvg-id="65b91e530d9ab40008340d8d" tvg-chno="76" tvg-name="Al salir de clase" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Series",Al salir de clase
