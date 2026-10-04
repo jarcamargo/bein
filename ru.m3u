@@ -67,7 +67,7 @@ http://92.176.119.180:2095/play/a1fy
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-xabarin-en-directo-100x70.png" group-title="Anime y Dibujos",Cancion Somos do clube da galega - Xabarín
 http://ondemand-crtvg-origin.flumotion.com/videos/MD/xabaclips/085.mp4/chunk.m3u8
-#EXTINF:-1 channel-id="64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-chno="1271" tvg-name="Captain Tsubasa" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="TV General",Captain Tsubasa
+#EXTINF:-1 channel-id="64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-chno="1271" tvg-name="Captain Tsubasa" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Anime y Dibujos",Captain Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4Tyn69H/Logo-Cartoon-Clasico.png" group-title="Anime y Dibujos",Cartoon Clasico LAT HD
 https://lbgo.bozztv.com/ssh101/ssh101/cartoonclasico/playlist.m3u8
@@ -113,7 +113,7 @@ https://kali.vdopanel.com:3909/stream/play.m3u8
 https://jmp2.uk/stvp-ES2600008NX
 #EXTINF:-1 channel-id="6523f672a6c38300088cb807" tvg-id="6523f672a6c38300088cb807" tvg-chno="225" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png" group-title="Infantil",El Reino Infantil
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Series",EnerGeek (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeek.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Gaming y Geek",EnerGeek (720p) [Not 24/7]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Gaming y Geek",EnerGeek Fan (1080p)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
@@ -162,7 +162,7 @@ https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z6SGVzW1/logo-Infantil-Canal-Extremadura.jpg" group-title="Infantil",Infantil (Canal Extremadura) HD
 https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
-#EXTINF:-1 channel-id="66b26665d512590008c507b7" tvg-id="66b26665d512590008c507b7" tvg-chno="1279" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="TV General",Inuyasha
+#EXTINF:-1 channel-id="66b26665d512590008c507b7" tvg-id="66b26665d512590008c507b7" tvg-chno="1279" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="Anime y Dibujos",Inuyasha
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
 #EXTINF:-1 tvg-name="Janimotion" tvg-id="Janimotion" tvg-logo="https://i.ibb.co/chkybmzX/Janimotion.png" group-title="Anime y Dibujos",Janimotion HD
 https://janimotion.com/hls/janimotion/index.m3u8
@@ -233,9 +233,9 @@ https://jmp2.uk/plu-68e8fe3bcba140ddfe903677.m3u8
 https://jmp2.uk/plu-6a31544f2c1c785c1138dbb1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" group-title="TV General",Mr Bean HD
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="TV General",Mr Bean Animado HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Anime y Dibujos",Mr Bean Animado HD
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="TV General",Mr Bean Animado HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Anime y Dibujos",Mr Bean Animado HD (geobloqueo)
 https://amg00627-amg00627c25-samsung-es-3933.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanes-samsunges/playlist.m3u8
 #EXTINF:-1 channel-id="69fca9f9b9c0f0d444f631ca" tvg-id="69fca9f9b9c0f0d444f631ca" tvg-chno="943" tvg-name="Mr. Bean Animated" tvg-logo="https://images.pluto.tv/channels/69fca9f9b9c0f0d444f631ca/colorLogoPNG_1778514521886.png" group-title="Anime y Dibujos",Mr. Bean Animated
 https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
@@ -339,7 +339,7 @@ https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Anime y Dibujos",TALTALTV ANIME (series) HD
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
-#EXTINF:-1 channel-id="5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-chno="1294" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="TV General",Tokusato
+#EXTINF:-1 channel-id="5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-chno="1294" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Anime y Dibujos",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV General",Tom And Jerry (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -371,7 +371,7 @@ http://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/c
 http://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpHgX5X/logo-Xabarin-TV-PEQUERRECH-S.png" group-title="Anime y Dibujos",Xabarin TV Pequerrechoas HD
 http://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 channel-id="63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-chno="166" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="TV General",Yu-Gi-Oh!
+#EXTINF:-1 channel-id="63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-chno="166" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Anime y Dibujos",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 #EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="Anime y Dibujos",Zyoon Tv HD
 https://lbgo.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
@@ -6472,9 +6472,9 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f170f01b898
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f170f01b898490041b49dd1/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
 #EXTINF:-1 channel-id="654102ed770cf1000866c307" tvg-id="654102ed770cf1000866c307" tvg-chno="1402" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" group-title="Musica",Yo! MTV
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42" tvg-id="643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42" tvg-chno="" tvg-name="Yu-Gi-Oh!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e10f9ed3-8112-4287-8355-cc00be4413a8/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png" group-title="TV General",Yu-Gi-Oh!
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42" tvg-id="643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42" tvg-chno="" tvg-name="Yu-Gi-Oh!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e10f9ed3-8112-4287-8355-cc00be4413a8/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png" group-title="Anime y Dibujos",Yu-Gi-Oh!
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
-#EXTINF:-1 channel-id="ES7000056Z" tvg-id="ES7000056Z" tvg-chno="4186" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png" group-title="TV General",Yu-Gi-Oh!
+#EXTINF:-1 channel-id="ES7000056Z" tvg-id="ES7000056Z" tvg-chno="4186" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png" group-title="Anime y Dibujos",Yu-Gi-Oh!
 https://jmp2.uk/stvp-ES7000056Z
 #EXTINF:-1 tvg-id="Yunavision.do@SD" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Series",Yunavision (720p) [Not 24/7]
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
@@ -6762,9 +6762,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/pla
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sherlock" group-title="Accion y Crimen",Pluto TV Sherlock
 https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
-#EXTINF:-1 tvg-name="Tokusato [SUB Español]" group-title="Anime Sub Español",Tokusato [SUB Español]
+#EXTINF:-1 tvg-name="Tokusato [SUB Español]" group-title="Anime y Dibujos",Tokusato [SUB Español]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceDNT=0
-#EXTINF:-1 tvg-name="Captain Tsubasa [SUB Español]" group-title="Anime Sub Español",Captain Tsubasa [SUB Español]
+#EXTINF:-1 tvg-name="Captain Tsubasa [SUB Español]" group-title="Anime y Dibujos",Captain Tsubasa [SUB Español]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0
 #EXTINF:-1 tvg-name="Paramount Movie Channel" group-title="Peliculas",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
